@@ -1,16 +1,20 @@
-## Hi there 👋
+# Laura Mendes Teixeira
 
-<!--
-**Laura-Mendes/Laura-Mendes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**`Estudante de Desenvolvimento de Sistemas`**
 
-Here are some ideas to get you started:
+Me chamo Laura Mendes Teixeira, tenho 17 anos e sou de São Paulo. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas no SENAI "A. Jacob Lafer" (curso técnico). Sou desenhista com foco em arte realista e tenho interesse em ingressar profissionalmente na área de TI, buscando oportunidades como estagiária.
+🔗 [LinkedIn](www.linkedin.com/in/laura-mendes-teixeira-8a0869391)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="left">
+
+<a href="https://www.linkedin.com/in/laura-mendes-teixeira-8a0869391" target="_blank">
+  <img 
+       alt="LinkedIn" 
+       title="Meu LinkedIn" 
+       src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
+  />
+</a>
+
+
+
+</p>
