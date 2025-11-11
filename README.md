@@ -18,7 +18,7 @@ Me chamo Laura Mendes Teixeira, tenho 17 anos e sou de São Paulo. Atualmente, e
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+### Linguagens e Tecnologias
 
 <img 
     align="left" 
