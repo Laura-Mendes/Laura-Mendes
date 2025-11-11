@@ -2,7 +2,8 @@
 
 **`Estudante de Desenvolvimento de Sistemas`**
 
-Me chamo Laura Mendes Teixeira, tenho 17 anos e sou de São Paulo. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas no SENAI "A. Jacob Lafer" (curso técnico). Sou desenhista com foco em arte realista e tenho interesse em ingressar profissionalmente na área de TI, buscando oportunidades como estagiária.
+Me chamo Laura Mendes Teixeira, tenho 17 anos e sou de São Paulo. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas no SENAI "A. Jacob Lafer" (curso técnico). Tenho interesse em ingressar profissionalmente na área de TI, buscando oportunidades como estagiária em Desenvolvimento de Sistemas.
+Minhas habilidades incluem: programação em Python e JavaScript, desenvolvimento web com HTML, CSS e Flask, banco de dados MySQL, controle de versionamento com Git/GitHub, além de noções de front-end e back-end.
 
 <p align="left">
 
